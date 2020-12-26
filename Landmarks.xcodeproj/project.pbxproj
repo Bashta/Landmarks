@@ -36,6 +36,7 @@
 		26AB6AC325979BA200960AD0 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AB6AC225979BA200960AD0 /* LandmarkList.swift */; };
 		26AB6AC425979BA200960AD0 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AB6AC225979BA200960AD0 /* LandmarkList.swift */; };
 		26AB6AC525979BA200960AD0 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26AB6AC225979BA200960AD0 /* LandmarkList.swift */; };
+		26D25C062597A02A002CFFD5 /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26D25C052597A02A002CFFD5 /* LandmarkDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		26AB6A8D2597999200960AD0 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		26AB6AAE25979A5600960AD0 /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		26AB6AC225979BA200960AD0 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		26D25C052597A02A002CFFD5 /* LandmarkDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,6 +180,7 @@
 				26AB6A7125978D2100960AD0 /* MapView.swift */,
 				26AB6AAE25979A5600960AD0 /* LandmarkRow.swift */,
 				26AB6AC225979BA200960AD0 /* LandmarkList.swift */,
+				26D25C052597A02A002CFFD5 /* LandmarkDetail.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -327,6 +330,7 @@
 				26AB6A7225978D2100960AD0 /* MapView.swift in Sources */,
 				26AB6A3D25967A5900960AD0 /* LandmarksApp.swift in Sources */,
 				26AB6AC325979BA200960AD0 /* LandmarkList.swift in Sources */,
+				26D25C062597A02A002CFFD5 /* LandmarkDetail.swift in Sources */,
 				26AB6A6B25978BBE00960AD0 /* CircleImage.swift in Sources */,
 				26AB6A84259796EA00960AD0 /* Landmark.swift in Sources */,
 				26AB6AAF25979A5600960AD0 /* LandmarkRow.swift in Sources */,
