@@ -9,7 +9,9 @@ import Foundation
 import SwiftUI
 import CoreLocation
 
-struct Landmark: Hashable, Codable {
+extension Landmark: Identifiable, Hashable, Codable { }
+
+struct Landmark {
     
     var id: Int
     var name: String
@@ -34,3 +36,4 @@ struct Landmark: Hashable, Codable {
         var longitude: Double
     }
 }
+
